@@ -1,6 +1,6 @@
 V1.3Beta
 https://github.com/1247847495/PS2HDDManager/raw/main/PS2HDDManager.exe
-V1.3Beta 更新内容：
+V1.4Beta 更新内容：
 1. 全部列表自动排序（数字自然序，文件夹优先）
 2. 删除/重命名/金手指/PFS浏览器 搜索定位功能
 3. HDL 游戏名 160 字节长名字支持
